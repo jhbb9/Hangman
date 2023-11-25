@@ -146,3 +146,4 @@ while overall_wrong_count != 10 or secretWork != guessingWord:
         print('You lost Cunt!')
     elif guessingWord == secretWork:
         print('You win Kunt!')
+#help 
